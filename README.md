@@ -1,6 +1,6 @@
 # emoji-personal-list   
 
-Lista personal de emojis que suelo usar en mis notas y repositorios.  
+Lista personal de emojis que suelo usar en mis notas, repositorios, etc.
 
 
 ## Emojis para Git  
@@ -14,9 +14,10 @@ Lista personal de emojis que suelo usar en mis notas y repositorios.
 
 
 ## Miscelánea  
-| Emoji | Emoji code | | Emoji | Emoji code |
-|-------|------------|-|-------|------------|
-| :star: | `:star:` | | :exclamation:️|   `:exclamation:` |
-| :warning: | `:warning:` | | :bulb: | `:bulb:` |
-| :rocket: | `:rocket:` | | :cookie: | `:cookie:` |
-| :cyclone: | `:cyclone:` | | :hammer: | `:hammer:` |
+| Emoji | Emoji code | | Emoji | Emoji code | | Emoji | Emoji code |
+|-------|------------|-|-------|------------|-|-------|------------|
+| :star: | `:star:` | | :exclamation:️|   `:exclamation:` | | :movie_camera:|   `:movie_camera:` |
+| :warning: | `:warning:` | | :bulb: | `:bulb:` | | :thought_balloon:|   `:thought_balloon:` |
+| :rocket: | `:rocket:` | | :cookie: | `:cookie:` | | :computer:|   `:computer:` |
+| :cyclone: | `:cyclone:` | | :hammer: | `:hammer:` | | :bell:|   `:bell:` |
+| :speaker: | `:speaker:` | | :round_pushpin: | `:round_pushpin:` | | :white_check_mark:|   `:white_check_mark:` |
