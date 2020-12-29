@@ -16,8 +16,9 @@ Lista personal de emojis que suelo usar en mis notas, repositorios, etc.
 ## Miscelánea  
 | Emoji | Emoji code | | Emoji | Emoji code | | Emoji | Emoji code |
 |-------|------------|-|-------|------------|-|-------|------------|
-| :star: | `:star:` | | :exclamation:️|   `:exclamation:` | | :movie_camera:|   `:movie_camera:` |
-| :warning: | `:warning:` | | :bulb: | `:bulb:` | | :thought_balloon:|   `:thought_balloon:` |
-| :rocket: | `:rocket:` | | :cookie: | `:cookie:` | | :computer:|   `:computer:` |
-| :cyclone: | `:cyclone:` | | :hammer: | `:hammer:` | | :bell:|   `:bell:` |
-| :speaker: | `:speaker:` | | :round_pushpin: | `:round_pushpin:` | | :white_check_mark:|   `:white_check_mark:` |
+| :star: | `:star:` | | :exclamation:️|   `:exclamation:` | | :movie_camera:| `:movie_camera:` |
+| :warning: | `:warning:` | | :bulb: | `:bulb:` | | :thought_balloon:| `:thought_balloon:` |
+| :rocket: | `:rocket:` | | :cookie: | `:cookie:` | | :computer:| `:computer:` |
+| :cyclone: | `:cyclone:` | | :hammer: | `:hammer:` | | :bell:| `:bell:` |
+| :speaker: | `:speaker:` | | :round_pushpin: | `:round_pushpin:` | | :white_check_mark:| `:white_check_mark:` |
+| :x: | `:x:` | | :speech_balloon: | `:speech_balloon:` | | |   |
